@@ -1,0 +1,4 @@
+2022-01-25 16:36:22.818 | SUCCESS  | utils.misc.prestart_moves:prestart_moves:12 - anon_send_valentin_bot has been started
+2022-01-25 16:36:22.818 | INFO     | utils.misc.prestart_moves:prestart_moves:13 - User id858692387 was authorized as MAIN ADMIN
+2022-01-25 16:36:22.819 | INFO     | utils.misc.prestart_moves:prestart_moves:14 - Updating usernames is turn OFF
+2022-01-25 16:36:22.819 | INFO     | utils.misc.prestart_moves:prestart_moves:15 - Updating activity is turn OFF

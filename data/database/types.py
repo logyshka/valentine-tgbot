@@ -1,0 +1,4 @@
+INT = "INT"
+TEXT = "TEXT"
+DATE = "DATE"
+TIME = "TIME"
